@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "fahad",
+      "email": "fahad0samara@gmail.com",
+      "password": "00000",
+      "id": 2
+    },
+    {
+      "name": "fahad",
+      "email": "fahad0samara@gmail.com",
+      "password": "00000",
+      "id": 3
+    },
+    {
+      "name": "fahad",
+      "email": "fahad0samara@gmail.com",
+      "password": "00000",
+      "id": 4
+    },
+    {
+      "name": "fahad",
+      "email": "fahad0samara@gmail.com",
+      "password": "00000",
+      "id": 5
+    },
+    {
+      "name": "fahad",
+      "email": "fahad0samara@gmail.com",
+      "password": "00000",
+      "id": 6
+    },
+    {
+      "name": "fahad",
+      "email": "fahad0samara@gmail.com",
+      "password": "00000",
+      "id": 7
+    },
+    {
+      "name": "fahad",
+      "email": "fahad0samara@gmail.com",
+      "password": "00000",
+      "id": 8
+    },
+    {
+      "name": "fahad",
+      "email": "fahad0samara@gmail.com",
+      "password": "00000",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
